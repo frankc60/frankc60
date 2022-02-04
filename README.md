@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frankc60
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning lots of new stuff
+- 💞️ I’m looking to collaborate on great code projects
+- 📫 send me a message :)
